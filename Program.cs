@@ -7,10 +7,9 @@ namespace EditorTexto
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Menu.Show();
         }
-        static void Menu()
-        {
-            Console.Clear();
-        }
+       
+      
     }
 }

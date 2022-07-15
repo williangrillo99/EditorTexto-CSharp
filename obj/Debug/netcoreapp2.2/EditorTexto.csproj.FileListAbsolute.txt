@@ -1,0 +1,11 @@
+C:\Users\willian.grillo\Documents\Projetos\Backend\EditorTexto\bin\Debug\netcoreapp2.2\EditorTexto.deps.json
+C:\Users\willian.grillo\Documents\Projetos\Backend\EditorTexto\bin\Debug\netcoreapp2.2\EditorTexto.runtimeconfig.json
+C:\Users\willian.grillo\Documents\Projetos\Backend\EditorTexto\bin\Debug\netcoreapp2.2\EditorTexto.runtimeconfig.dev.json
+C:\Users\willian.grillo\Documents\Projetos\Backend\EditorTexto\bin\Debug\netcoreapp2.2\EditorTexto.dll
+C:\Users\willian.grillo\Documents\Projetos\Backend\EditorTexto\bin\Debug\netcoreapp2.2\EditorTexto.pdb
+C:\Users\willian.grillo\Documents\Projetos\Backend\EditorTexto\obj\Debug\netcoreapp2.2\EditorTexto.csprojAssemblyReference.cache
+C:\Users\willian.grillo\Documents\Projetos\Backend\EditorTexto\obj\Debug\netcoreapp2.2\EditorTexto.csproj.CoreCompileInputs.cache
+C:\Users\willian.grillo\Documents\Projetos\Backend\EditorTexto\obj\Debug\netcoreapp2.2\EditorTexto.AssemblyInfoInputs.cache
+C:\Users\willian.grillo\Documents\Projetos\Backend\EditorTexto\obj\Debug\netcoreapp2.2\EditorTexto.AssemblyInfo.cs
+C:\Users\willian.grillo\Documents\Projetos\Backend\EditorTexto\obj\Debug\netcoreapp2.2\EditorTexto.dll
+C:\Users\willian.grillo\Documents\Projetos\Backend\EditorTexto\obj\Debug\netcoreapp2.2\EditorTexto.pdb
